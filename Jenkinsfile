@@ -8,7 +8,7 @@ pipeline {
     stages {
         stage('Build') {
             steps {
-                echo "✅ Webhook Triggered - 构建成功！"
+                echo "✅ Webhook Triggered hhh - 构建成功！"
             }
         }
     }
